@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-   <a href="https://ahlam-alsaffarini.github.io/Intro-section-with-dropdown-navigation/"> Demo 🔥🤍</a>
+   <a href="https://ahlam-alsaffarini.github.io/Blogr/"> Demo 🔥🤍</a>
 </div>
 
 <div align="center">
